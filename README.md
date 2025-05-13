@@ -1,4 +1,4 @@
-# 🇰🇪 Kenya COVID-19 Data Analysis
+#  COVID-19 Data Analysis
 
 This project provides a comprehensive analysis of COVID-19 trends using real-world data. It includes data cleaning, visualization, and exploratory analysis to uncover key insights on how the pandemic evolved over time.
 
